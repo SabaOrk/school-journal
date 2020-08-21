@@ -1,0 +1,6 @@
+C:\Users\Saba\Source\Repos\JournalLibrary\JournalLibrary\bin\Debug\JournalLibrary.dll
+C:\Users\Saba\Source\Repos\JournalLibrary\JournalLibrary\bin\Debug\JournalLibrary.pdb
+C:\Users\Saba\Source\Repos\JournalLibrary\JournalLibrary\obj\Debug\JournalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Saba\Source\Repos\JournalLibrary\JournalLibrary\obj\Debug\JournalLibrary.dll
+C:\Users\Saba\Source\Repos\JournalLibrary\JournalLibrary\obj\Debug\JournalLibrary.pdb
+C:\Users\Saba\Source\Repos\JournalLibrary\JournalLibrary\obj\Debug\JournalLibrary.csprojAssemblyReference.cache
